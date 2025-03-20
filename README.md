@@ -1,2 +1,2 @@
 # Deworm-the-World-Initiative-Program-Dashboard
-This repository contains data and visualizations for the Deworm the World Initiative, focused on reducing parasitic worm burden through mass treatment. The dashboard highlights treatment coverage, school engagement, and target vs treated populations across counties and sub-counties.
+The objective of the project is to track and visualize the progress of the Deworm the World Initiative, focusing on the treatment coverage for children and adults, school engagement, and the comparison between target and treated populations across various counties and sub-counties. The goal is to assess the effectiveness of mass deworming efforts and identify regions that require further attention to improve treatment reach and outcomes.
